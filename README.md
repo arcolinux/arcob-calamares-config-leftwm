@@ -1,0 +1,2 @@
+# ArcoLinuxB-leftwm Calamares configuration
+
